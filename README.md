@@ -1,6 +1,6 @@
 #Arduino Garagedoor Unlocker
 
-Using Arduino Pro Mini 5v
+Using Arduino Pro Mini 5v  
 Need to initialize EEPROM with eeprom_init.ino code before uploading this file.
 Servo connects to door lock mechanism with 4-bar linkage. Enter 4 digit code followed by # key. 
 Correct code rotates servo, moving linkage and lock mechanism, unlocking door. Door relocks
