@@ -11,7 +11,7 @@
 *  
 *  Attributions:
 *  Grallator - EEPROM, keypad input handling https://grallator.wordpress.com/2013/12/04/arduino-keypad-entry-system/
-*  Nick Gammon - Low power and wake with keypad https://grallator.wordpress.com/2013/12/04/arduino-keypad-entry-system/
+*  Nick Gammon - Low power and wake with keypad http://www.gammon.com.au/forum/?id=11497
 *  madcoffee - Low power info & disabling power LED http://www.home-automation-community.com/arduino-low-power-how-to-run-atmega328p-for-a-year-on-coin-cell-battery/
 */
 
